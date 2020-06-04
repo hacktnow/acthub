@@ -1,0 +1,9 @@
+{
+    "root": true,
+    "extends": "fullstack",
+    "rules": {
+        "semi": 2,
+        "nonblock-statement-body-position": 0,
+        "curly": 0
+    }
+}
